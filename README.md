@@ -2,7 +2,7 @@
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description 
-This project is an a website where user can see the Weather Forecast for a particular city. 
+This is a website where users can look for the Weather Forecast of a particular city. 
 HTML, local CSS, bootstrap and JavaScript have been used to create this web app. 
 JavaScript library Moment and Open Weather Map API has been used in building this project.
 
